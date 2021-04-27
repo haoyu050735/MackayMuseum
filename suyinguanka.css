@@ -1,6 +1,6 @@
 
 #everypage_frame  {
-width: 520px;
+width: 400px;
 padding: 13px;
 position: absolute;
 left: 50%;
@@ -19,7 +19,7 @@ vertical-align: middle;
 
 .everypage_title {
 font-family: "微軟正黑體"; font-size: 30px; font-weight: bold;
-width: 500px;
+width: 380px;
 line-height: 20px;
 text-align: center;
 color: white;
@@ -31,7 +31,7 @@ padding: 10px;
 .everypage_neiwun {
 font-size: 14px;
 font-family: "微軟正黑體";
-width: 500px;
+width: 380px;
 line-height: 28px;
 text-align: left;
 color: white;
