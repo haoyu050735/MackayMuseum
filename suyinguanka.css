@@ -1,0 +1,56 @@
+
+#everypage_frame  {
+width: 520px;
+padding: 13px;
+position: absolute;
+left: 50%;
+top: 30%;
+margin-left: -260px;
+margin-top: -200px;
+background-color: #2e2f33;
+border-radius: 10px;
+text-align: center;
+}
+
+form p > * {
+display: inline-block;
+vertical-align: middle;
+}
+
+.everypage_title {
+font-family: "微軟正黑體"; font-size: 30px; font-weight: bold;
+width: 500px;
+line-height: 20px;
+text-align: center;
+color: white;
+background-color: #2e2f33;
+border-radius: 10px;
+padding: 10px;
+}
+
+.everypage_neiwun {
+font-size: 14px;
+font-family: "微軟正黑體";
+width: 500px;
+line-height: 28px;
+text-align: left;
+color: white;
+background-color: #4f4f4f;
+border-radius: 13px;
+padding: 3px;
+}
+
+#btn_page {
+font-size: 14px;
+font-family: "微軟正黑體";
+width: 120px;
+height: 28px;
+line-height: 28px;
+text-align: center;
+color: white;
+background-color: #3498db;
+border-radius: 50px;
+border: 0;
+float: left;
+margin: 5px;
+}
